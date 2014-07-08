@@ -6,7 +6,7 @@ import com.google.common.base.Function;
 import net.minecraft.init.Blocks;
 import net.minecraft.world.World;
 
-//put this in the structure2 package of the LOTRMod
+//put this in the lotr.common.world.structure2 package of the LOTRMod
 
 public class LOTRWorldGenSmallTowerF extends LOTRWorldGenStructureBase2
 {
