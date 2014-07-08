@@ -4,7 +4,7 @@ import java.util.Random;
 import net.minecraft.init.Blocks;
 import net.minecraft.world.World;
 
-//put this in the structure2 package of the LOTR Mod
+//put this in the lotr.common.world.structure2 package of the LOTR Mod
 
 public class LOTRWorldGenAbandomnedCastleF extends LOTRWorldGenStructureBase2
 {
